@@ -7,8 +7,4 @@ It is a blog / news page for the New York Islanders.
 The web page is a single view.
   
 I had lots of fun learning about design and layout doing this project. It includes the following:
-  -Nav Bar
-    -Fixed Social Media Icon
-       -Picturs with link
-          -Table views
-            -Hyperlinks
+  1)Nav Bar 2)Fixed Social Media Icon 3)Picturs with link 4)Table views 5)Hyperlinks
