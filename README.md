@@ -9,6 +9,6 @@ The web page is a single view.
 I had lots of fun learning about design and layout doing this project. It includes the following:
   -Nav Bar
     -Fixed Social Media Icon
-    -Picturs with link
-      -Table views
-        -Hyperlinks
+       -Picturs with link
+          -Table views
+            -Hyperlinks
